@@ -20,7 +20,7 @@ For the process of understanding this control logic, please refer to [my blog (i
 > - [ ] UGREEN DXP2800 GT
 > - [x] UGREEN DXP4800 ([#41](https://github.com/miskcoo/ugreen_leds_controller/issues/41))
 > - [x] UGREEN DXP4800 Plus ([Gist](https://gist.github.com/Kerryliu/c380bb6b3b69be5671105fc23e19b7e8))
-> - [ ] UGREEN DXP4800 Pro
+> - [x] UGREEN DXP4800 Pro ([#121](https://github.com/miskcoo/ugreen_leds_controller/issues/121))
 > - [ ] UGREEN DXP4800 GT (**Experimental**, available on [v0.4-beta](https://github.com/miskcoo/ugreen_leds_controller/releases/tag/v0.4-beta), [#100](https://github.com/miskcoo/ugreen_leds_controller/pull/100))
 > - [x] UGREEN DXP6800 Pro ([#7](https://github.com/miskcoo/ugreen_leds_controller/issues/7))
 > - [x] UGREEN DXP8800 Plus ([#1](https://github.com/miskcoo/ugreen_leds_controller/issues/1), [Repo](https://github.com/meyergru/ugreen_dxp8800_leds_controller))
